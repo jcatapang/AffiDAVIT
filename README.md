@@ -1,5 +1,5 @@
-# XViT-LaDA
-Explainable Diffusion-Augmented ViT using Grad-CAM
+# AffiDAVIT
+Affinitive Diffusion-Augmented Vision for Interpretable Transformers
 
 ## Dependencies
 - transformers
