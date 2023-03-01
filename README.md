@@ -1,6 +1,8 @@
 # AffiDAVIT
 Affinitive Diffusion-Augmented Vision for Interpretable Transformers
 
+<img src="https://github.com/jcatapang/AffiDAVIT/blob/main/fig1.jpg" width=50%/>
+
 ## Dependencies
 - transformers
 - torch
